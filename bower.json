@@ -1,0 +1,16 @@
+{
+  "name": "FlyTornadoOne",
+  "version": "0.0.0",
+  "license": "",
+  "author": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.*"
+  }
+}
