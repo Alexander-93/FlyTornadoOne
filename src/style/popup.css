@@ -5,15 +5,15 @@
   right: 0px;
   width: 0px;
   height: 1200px;
-  width: 50%;
-  transition: width 2s;
-  z-index: 5;
+  width: 0%;
+  transition: width 3s;
+  z-index: 11;
   background: #fff;
   color: #a9a9a9;
   font-size: 13px;
   font-family: gothampro;
   font-weight: 400;
-  /*display: none;*/
+  
 }
 
 .popup__x{
@@ -22,6 +22,7 @@
   margin: 47px 0 6px 0;
   font-size: 42px;
   color: #6dcce4;
+  cursor: pointer;
 }
 
 .popup__tabs {
